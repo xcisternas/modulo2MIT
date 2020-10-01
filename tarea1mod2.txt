@@ -1,0 +1,43 @@
+<html>
+
+  <head>
+
+    <title> Mi ejercicio de módulo 2 MIT </title>
+
+    <meta http-equiv = “Content-Type” content = “text / html; charset = utf-8”>
+
+    <meta name = “description” content = “Acá efectivamente quiero mostrales mi avance en esta tareas: avances, problemas, anécdotas y comentarios”>
+
+    <meta name = “keywords” content = “MIt, aprender, devops, covid”>
+
+    <link rel = “stylesheet” type = “text / css” href = “/ style.css”>
+
+    <link rel = “icono de acceso directo” href = “/ favicon.ico”>
+
+  </head>
+
+  <body>
+
+    <h1> Mi ejercicio de módulo 2 MIT </h1>
+
+    <div id = “mainContent”>
+
+      <p> Mi avance ha sido pocos esta semana. Recién anoche miércoles partí> hoy haciendo esta tarea </a>, ¡y mañana viernes espero terminar :) </p>
+
+      <p> Aquí hay una foto de ayer en Mit Networking: </p>
+
+      <img src = “mitnetwork.jpg” alt = “modulo2”>
+
+    </div>
+
+    <div id = “barra lateral”>
+
+      <h2> sigue mi blog de tareas </h2>
+
+      <p> Aca encontrarás <span class = “product”> SuperWidgets </span>, <span class = “product”> MegaWidgets </span> y <span class = “product”> WonderWidgets </span> . </p>
+
+    </div>
+
+  </body>
+
+</html>
